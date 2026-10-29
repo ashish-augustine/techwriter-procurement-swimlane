@@ -1,7 +1,6 @@
-# Enterprise Procure-to-Pay (P2P) Lifecycle
+# Technical Writer - Swimlane Demo - MS Visio
+## Enterprise Procure-to-Pay (P2P) Lifecycle
 
-**Author:** Ashish Augustine  
-**Version:** 1.1.0  
 
 ## Overview
 This repository contains the standard operating procedure and workflow documentation for the Enterprise Procure-to-Pay (P2P) process. The documentation is designed to align cross-functional teams—specifically Production & Warehouse, Procurement, and Finance—by providing a clear, visual, and text-based roadmap of purchasing operations and system integrations.
@@ -56,6 +55,10 @@ As highlighted in the diagram, if a Purchase Requisition hits the **PR Rejected*
 ## Repository Structure
 
 ```text
+```
+
+**Author:** Ashish Augustine  
+**Version:** 1.0.0 
 ├── docs/
 │   └── p2p_system_architecture.md   # Detailed API webhook documentation
 ├── images/
