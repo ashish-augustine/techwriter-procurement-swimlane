@@ -54,11 +54,9 @@ As highlighted in the diagram, if a Purchase Requisition hits the **PR Rejected*
 
 ## Repository Structure
 
-```text
-```
+```text 
 
-**Author:** Ashish Augustine  
-**Version:** 1.0.0 
+
 ├── docs/
 │   └── p2p_system_architecture.md   # Detailed API webhook documentation
 ├── images/
@@ -66,3 +64,10 @@ As highlighted in the diagram, if a Purchase Requisition hits the **PR Rejected*
 ├── source/
 │   └── p2p_workflow_master.json     # Raw Lucidchart data file
 └── README.md                        # This document
+
+```
+
+
+
+**Author:** Ashish Augustine  
+**Version:** 1.0.0 
